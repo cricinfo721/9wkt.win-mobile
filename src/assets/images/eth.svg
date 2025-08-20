@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>in&amp;out/color-white/crypto/eth</title>
+    <g id="in&amp;out/color-white/crypto/eth" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill-rule="nonzero">
+            <path d="M37.5,0 C58.20975,0 75,16.79025 75,37.5 C75,58.20975 58.209,75 37.5,75 C16.791,75 0,58.21425 0,37.5 C0,16.78575 16.788,0 37.5,0" id="Path" fill="#E5E5E5"></path>
+            <g id="ethereum-eth-logo" transform="translate(21.000000, 10.000000)">
+                <polygon id="Path" fill="#343434" points="16.9950151 0 16.6235323 1.27617467 16.6235323 38.3045296 16.9950151 38.6793593 33.9895967 28.5195009"></polygon>
+                <polygon id="Path" fill="#8C8C8C" points="16.9950151 0 0 28.5195009 16.9950151 38.6793593 16.9950151 20.7068218"></polygon>
+                <polygon id="Path" fill="#3C3C3B" points="16.9950151 41.9335828 16.7856496 42.1917988 16.7856496 55.3818597 16.9950151 56 34 31.7789851"></polygon>
+                <polygon id="Path" fill="#8C8C8C" points="16.9950151 56 16.9950151 41.9335828 0 31.7789851"></polygon>
+                <polygon id="Path" fill="#141414" points="16.9950151 38.6793593 33.9895967 28.5195009 16.9950151 20.7068218"></polygon>
+                <polygon id="Path" fill="#393939" points="0 28.5195009 16.9950151 38.6793593 16.9950151 20.7068218"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
