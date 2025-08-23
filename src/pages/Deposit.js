@@ -496,7 +496,7 @@ const Deposit = () => {
           </div>
         </div>
         <div class="deposit-description">
-                <ReactPlayer
+                {/* <ReactPlayer
                   muted={false}
                   controls={false}
                   playsinline={true}
@@ -516,7 +516,7 @@ const Deposit = () => {
                       },
                     },
                   }}
-                />
+                /> */}
                 {/* <div style={{ marginTop: "10px" }}>
                   <span>{t("DEPOSIT_LINE1")}</span>
                 </div>
